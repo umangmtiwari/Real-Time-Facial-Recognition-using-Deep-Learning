@@ -2,6 +2,11 @@
 
 Welcome to my Real Time Facial Recognition project! This repository showcases the culmination of my efforts in building a robust system that can recognize faces in real-time. Whether you're a curious developer, a researcher, or someone interested in the fascinating world of deep learning, you've come to the right place.
 
+![happy](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/ec2a8829-5d36-4f22-87f2-a823f5f9237e)
+![surprise](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/d546c62a-591e-46e8-901f-e3dcd1fdacfe)
+![angry](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/1c3f925f-7684-49b6-9e65-662150814e7f)
+![neutral](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/14fcee89-9a53-43a4-8640-107a24731be9)
+
 ## Introduction
 
 Facial recognition technology has seen incredible advancements in recent years, thanks to the power of deep learning. My project dives deep into this domain, offering a practical implementation of real-time facial recognition using state-of-the-art techniques.
@@ -32,12 +37,7 @@ Excited to try out the facial recognition system? Here's how you can get started
 
 ## Screenshots
 
-Curious to see what my system looks like in action? Check out these screenshots showcasing real-time output.
-
-![happy](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/ec2a8829-5d36-4f22-87f2-a823f5f9237e)
-![surprise](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/d546c62a-591e-46e8-901f-e3dcd1fdacfe)
-![angry](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/1c3f925f-7684-49b6-9e65-662150814e7f)
-![neutral](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/14fcee89-9a53-43a4-8640-107a24731be9)
+Curious to see what my system looks like in action? Check out these screenshots showcasing the scores.
 
 ![svm](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/04862bb1-3411-4521-81cc-bd25faee2e8b)
 ![ada_boost](https://github.com/umangmtiwari/Real-Time-Facial-Recognition-using-Deep-Learning/assets/143312015/26351fb3-f59d-4d10-b6a6-eb385fc095b7)
